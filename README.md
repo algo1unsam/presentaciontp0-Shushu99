@@ -10,15 +10,20 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Giuliana Erika Massanet
 
-Descripción
+Hola, soy Giuliana. Tengo 23 años. Estudio programación informática porque me interesa el mundo de la tecnología. Para mí es interesante saber cómo se construyen los aparatos electrónicos, las aplicaciones, los programas que utilizamos día a día. Desde que soy chica me gusta la idea de la resolución de problemas. He realizado cursos de computación, programación y testing de software. 
 
-Foto de mi persona:
+Me gusta jugar videojuegos, mirar series y escuchar música en mis tiempos libres.
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+No me gustan las presentaciones largas, así que por acá lo dejo.
+Espero poder aprender mucho con ustedes.
 
-Diente de Leon
+Gracias y saludos.
+
+Foto de un gatito feliz que me representa:
+
+![d](https://piensoprofine.es/wp-content/uploads/2018/06/gato-feliz.jpg.webp)
 
 ------
 
